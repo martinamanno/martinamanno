@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinamanno
+- 👋 Hi, I’m Martina Manno and I'm 22 yo
 - 👀 I’m interested in Machine Learning and Cyber security
 - 🌱 I’m currently studying Data Science and Management for my Master's degree at Luiss University in Rome.
 - 💞️ I’m looking to collaborate on challenging projects
